@@ -1,0 +1,6 @@
+{
+    "name": "drempfer/pdfgen",
+    "require": {
+        "mpdf/mpdf": "^8.0"
+    }
+}
